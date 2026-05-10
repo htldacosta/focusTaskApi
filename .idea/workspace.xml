@@ -9,6 +9,8 @@
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/java/com/jogadores/cadastro/model/Jogador.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/java/com/jogadores/cadastro/repository/JogadorRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/focustask/entity/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/focustask/repository/TaskRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogoTermo/jogoTermo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogos-java/.idea/jogos-java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogos-java/jogoTermo/jogoTermo.iml" afterDir="false" />
@@ -16,6 +18,8 @@
       <change beforePath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/entity/Mail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/entity/Mail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/service/EmailService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/service/impl/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../emailDemo/src/main/java/com/javaMail/emailDemo/service/impl/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jogos-java/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../jogos-java/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jogos-java/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jogos-java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jogos-java/.idea/vcs.xml" afterDir="false" />
@@ -29,6 +33,14 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
