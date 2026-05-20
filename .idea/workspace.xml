@@ -9,7 +9,6 @@
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/java/com/jogadores/cadastro/model/Jogador.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/java/com/jogadores/cadastro/repository/JogadorRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cadastro/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/focustask/controller/TaskController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogoTermo/jogoTermo.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogos-java/.idea/jogos-java.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jogos-java/jogoTermo/jogoTermo.iml" afterDir="false" />
